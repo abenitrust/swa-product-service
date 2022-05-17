@@ -1,4 +1,4 @@
-package com.application.domain;
+package com.swa.application.domain;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

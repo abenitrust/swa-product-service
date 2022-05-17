@@ -40,6 +40,9 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8000/eureka/
 
+event.topics:
+  order-placed: "ORDER-PLACED"
+
 
 # Use profiles to instantiate the three duplicate services requested
 ---
