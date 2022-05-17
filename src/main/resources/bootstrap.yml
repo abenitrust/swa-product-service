@@ -2,4 +2,4 @@ spring:
   application:
     name: product-service
 
-  # cloud.config.uri: http://localhost:8003
+  cloud.config.uri: http://localhost:8003
